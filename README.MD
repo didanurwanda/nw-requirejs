@@ -32,8 +32,8 @@ please do the following configuration
 
 ```JavaSciprt
 define([
-    'node:fs',
-    'node:path'
+    'node!fs',
+    'node!path'
 ], function(fs, path) {
 
     // your code

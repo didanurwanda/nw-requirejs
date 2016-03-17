@@ -21,7 +21,7 @@ please do the following configuration
 ```JavaScript
 {
     "map": {
-        "node": "bower_components/nw-requirejs/nw-require
+        "node": "bower_components/nw-requirejs/nw-require"
     }
 }
 ```

@@ -21,7 +21,9 @@ please do the following configuration
 ```JavaScript
 {
     "map": {
-        "node": "bower_components/nw-requirejs/nw-require"
+        "*": {
+            "node": "bower_components/nw-requirejs/nw-require
+        }
     }
 }
 ```
@@ -34,7 +36,7 @@ define([
     'node:path'
 ], function(fs, path) {
 
-	// your code
+    // your code
 
 });
 

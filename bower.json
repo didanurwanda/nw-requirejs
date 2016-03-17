@@ -1,0 +1,25 @@
+{
+  "name": "nw-requirejs",
+  "description": "NWJS : Load node module in RequireJS",
+  "main": "nw-require.js",
+  "authors": [
+    "Dida Nurwanda"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nwjs",
+    "node",
+    "webkit",
+    "nodejs",
+    "requirejs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

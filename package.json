@@ -1,0 +1,26 @@
+{
+  "name": "nw-requirejs",
+  "version": "1.0.0",
+  "description": "NWJS : Load node module in RequireJS",
+  "main": "nw-require.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/didanurwanda/nw-requirejs.git"
+  },
+  "keywords": [
+    "nwjs",
+    "node",
+    "webkit",
+    "nodejs",
+    "requirejs"
+  ],
+  "author": "Dida Nurwanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/didanurwanda/nw-requirejs/issues"
+  },
+  "homepage": "https://github.com/didanurwanda/nw-requirejs"
+}
